@@ -1,0 +1,32 @@
+{
+  "updated": 1762272887027,
+  "country": "Morocco",
+  "countryInfo": {
+    "_id": 504,
+    "iso2": "MA",
+    "iso3": "MAR",
+    "lat": 32,
+    "long": -5,
+    "flag": "https://disease.sh/assets/img/flags/ma.png"
+  },
+  "cases": 1278992,
+  "todayCases": 0,
+  "deaths": 16303,
+  "todayDeaths": 0,
+  "recovered": 0,
+  "todayRecovered": 0,
+  "active": 1262689,
+  "critical": 0,
+  "casesPerOneMillion": 33860,
+  "deathsPerOneMillion": 432,
+  "tests": 13001033,
+  "testsPerOneMillion": 344191,
+  "population": 37772756,
+  "continent": "Africa",
+  "oneCasePerPeople": 30,
+  "oneDeathPerPeople": 2317,
+  "oneTestPerPeople": 3,
+  "activePerOneMillion": 33428.56,
+  "recoveredPerOneMillion": 0,
+  "criticalPerOneMillion": 0
+}
